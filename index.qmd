@@ -1,8 +1,16 @@
 ---
 title: "Operationalizing CTmax"
-subtitle: "2025 CIEE Working Group"
-about: 
+subtitle: "2025 Working Group"
+image: media/TPC_GitProfPic.png
+about:
   template: solana
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: GitHub
+      href: https://github.com/OperationalizingCTmaxCIEE
+    - text: Email
+      href: mailto:amanda.cicchino@uoguelph.ca
 ---
 
 Welcome to our 2025 Working Group focused on understanding how organismal physiological limits scale up to population-level processes!

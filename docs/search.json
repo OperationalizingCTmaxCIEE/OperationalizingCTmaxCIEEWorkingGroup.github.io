@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Ill put the schedule here"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Operationalizing CTmax",
@@ -11,6 +18,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Put the goals of the wg some nice figures"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "For example: Link to some papers for reading Shiny app of the findings thus far"
   }
 ]
